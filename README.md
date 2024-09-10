@@ -7,11 +7,7 @@ Captura a posição do clique ao pressionar a tecla END.
 Configura o intervalo entre cliques em segundos (padrão é 0,5s).
 Inicia e para o autoclicker com botões de controle na interface.
 
-Requisitos
-Java JDK 8 ou superior.
-Ambiente gráfico para executar o programa.
-Instruções de Uso
-Compilar o Código
+É interessante ter o Java(TM) SE Runtime Environment (build 22.0.2+9-70)
 
 Compile o arquivo Java usando javac:
 javac LazyClicker.java
